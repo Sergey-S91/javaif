@@ -13,8 +13,8 @@ public class Main {
         // новую переменную и выводите на экран
 
         int price = 13676;
-                int bonus = price / 20 ;
+        int bonus = price / 20;
 
-                        System.out.println("вам начислено " + bonus + " бонусных мили");
+        System.out.println("вам начислено " + bonus + " бонусных мили");
     }
 }
